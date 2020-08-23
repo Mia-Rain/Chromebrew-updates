@@ -1,3 +1,0 @@
-[submodule "void-packages"]
-	path = void-packages
-	url = git@github.com:void-linux/void-packages.git
